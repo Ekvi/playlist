@@ -4,10 +4,17 @@ namespace App\Http\Controllers;
 
 use App\Site;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Redirect;
 
 class SiteController extends Controller
 {
+
+    public function __construct()
+    {
+        $this->middleware('isAdmin');
+    }
+
     /**
      * Display a listing of the resource.
      *
