@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<items>
+    <playlist_name>obovse.ru</playlist_name>
+    <channel>
+        <logo_30x30><![CDATA[http://getlist.obovse.ru/smarttv/img/ukraine.jpg]]></logo_30x30>
+        <title><![CDATA[Профиль/Игры]]></title>
+        <playlist_url><![CDATA[http://obovse.ru/smarttv/box.php?g=md5hash]]></playlist_url>
+        <menu_url><![CDATA[http://getlist.obovse.ru/smarttv/box.php?9434]]></menu_url>
+        <parser><![CDATA[http://speed-tester.info/ip_location.php|clientCity = '|']]></parser>
+    </channel>
+
+    <!--<channel>
+        <logo_30x30><![CDATA[http://getlist.obovse.ru/smarttv/youtube-logo.png]]></logo_30x30>
+        <title><![CDATA[YouTube]]></title>
+        <playlist_url><![CDATA[http://getlist.obovse.ru/smarttv/ytube.php]]></playlist_url>
+        <description><![CDATA[<center><img src='http://s1.n1.by/sites/default/files/imagecache/full/news/09/25/629304/1348565697.jpg'></img><br><br>
+	Поиск по каналам и видео]]></description>
+    </channel>-->
+
+    <channel>
+        <logo_30x30><![CDATA[http://getlist.obovse.ru/smarttv/FS.png]]></logo_30x30>
+        <title><![CDATA[FS.TO]]></title>
+        <playlist_url><![CDATA[http://getlist.obovse.ru/smarttv/fs.php]]></playlist_url>
+        <description><![CDATA[<table style='width:100%; padding-top:4px;padding-bottom:4px;'><tr height='4px' bgcolor='#cccccc'><td></td></tr></table><table><tr><td style='vertical-align: top' colspan=2><img src='http://getlist.obovse.ru/smarttv/fs.jpg' height='128' width='256'></img></td></tr></table><table style='width:100%; padding-top:4px;padding-bottom:4px;'><tr height='4px' bgcolor='#cccccc'><td></td></tr><td><center>Каталог фильмов, сериалов, музыки, клипов <br/><font color='green'>Только для Украины</font></center></td></table>]]></description>
+    </channel>
+
+</items>

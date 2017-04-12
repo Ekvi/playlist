@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<items>
+    <channel>
+        <title><![CDATA[Танцы насмерть (2016)]]></title>
+        <stream_url><![CDATA[md5hash]]></stream_url>
+        <parser><![CDATA[http://srv.1tuplay.ru/php/asdqwe.php?name=film/tantsy_nasmert_2016.flv|file:'|']]></parser>
+        <description><![CDATA[<div id="poster" style="float:left;padding:4px;	background-color:#EEEEEE;margin:0px 13px 1px 0px;"><img src="" style="width:180px;float:left;" /></div><span style="color:#3090F0">Танцы насмерть (2016)</span><br/>Категория: <br/><span style="color:#3090F0">Страна: </span><br/><span style="color:#3090F0">Описание:</span><br>]]></description>
+    </channel>
+</items>

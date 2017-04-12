@@ -1,0 +1,33 @@
+<items>
+    <channel>
+        <logo_30x30>http://obovse.ru/smarttv/search.png</logo_30x30>
+        <title>Поиск</title>
+        <playlist_url>http://obovse.ru/smarttv/tushkan.php?id=search</playlist_url>
+        <description>
+            <center>Поиск</center>
+        </description>
+        <search_on>search</search_on>
+    </channel>
+    <channel>
+        <logo_30x30>http://obovse.ru/smarttv/star.gif</logo_30x30>
+        <title>Последние поступления</title>
+        <playlist_url>http://obovse.ru/smarttv/tushkan.php?id=cat</playlist_url>
+        <description>
+            <center>Последние поступления</center>
+        </description>
+    </channel>
+    <channel>
+        <title>Сериалы</title>
+        <playlist_url>http://obovse.ru/smarttv/tushkan.php?id=cat&n=bmV3cy9zZXJpYWx5LzEtMC03</playlist_url>
+        <description>
+            <center>Сериалы</center>
+        </description>
+    </channel>
+    <channel>
+        <title>Фантастика</title>
+        <playlist_url>http://obovse.ru/smarttv/tushkan.php?id=cat&n=bmV3cy9mYW50YXN0aWthLzEtMC0x</playlist_url>
+        <description>
+            <center>Фантастика</center>
+        </description>
+    </channel>
+</items>
